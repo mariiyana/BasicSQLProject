@@ -10,3 +10,4 @@ This project is a beginner-friendly SQL database with an **Employees** and **Dep
 ✔️ Calculate average salary per department  
 ✔️ Order employees by salary/hire date  
 ✔️ Apply bonuses using `CASE` statements 
+```sql
